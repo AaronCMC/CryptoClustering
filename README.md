@@ -2,7 +2,7 @@
 
 K-means clustering was applied to scaled cryptocurrency data to identify optimal clusters, followed by Principal Component Analysis (PCA) for dimensionality reduction. The clustering results were compared.
 
-Clustering with the original scaled features produced less distinct clusters compared to those generated from PCA-transformed features, indicating that dimensionality reduction through PCA can enhance clustering effectiveness.
+Clustering with the original scaled features produced less distinct clusters compared to those generated from PCA-transformed features, indicating that dimensionality reduction via PCA can enhance clustering effectiveness.
 
 ## Instructions
 
